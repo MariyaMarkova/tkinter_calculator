@@ -8,6 +8,10 @@ Libraries:
 
 - tkinter
 
-Links to resourses 
+Links to resourses:
+
+
 Calculator -> https://youtu.be/6CZB6VTy3Hg
+
+
 .Py to .Exe -> https://youtu.be/LmhOcdewJU4
